@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="room.xsd" generated="2019-01-11T12:14:04">
+<room>
+<id_r>1</id_r>
+<floor>1</floor>
+<num>12</num>
+</room>
+<room>
+<id_r>2</id_r>
+<floor>1</floor>
+<num>11</num>
+</room>
+<room>
+<id_r>3</id_r>
+<floor>1</floor>
+<num>10</num>
+</room>
+<room>
+<id_r>4</id_r>
+<floor>2</floor>
+<num>20</num>
+</room>
+<room>
+<id_r>5</id_r>
+<floor>2</floor>
+<num>21</num>
+</room>
+<room>
+<id_r>6</id_r>
+<floor>2</floor>
+<num>22</num>
+</room>
+</dataroot>
